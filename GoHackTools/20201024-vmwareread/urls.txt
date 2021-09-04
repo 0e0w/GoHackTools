@@ -1,0 +1,5 @@
+www.baidu.com
+https://www.qq.com
+http://www.taobao.com
+127.0.0.1
+192.168.1.1:81
